@@ -117,16 +117,22 @@
       {
         "id": 256927226,
         "name": "W3NG PEGI The Witcher 3: Wild Hunt - Geralt and Ciri",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/292030/533363/f3f32404cd2382da7d05b8b64d3e6e261afca6d3/1750502468/hls_264_master.m3u8?t=1674829926",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/292030/533363/f3f32404cd2382da7d05b8b64d3e6e261afca6d3/1750502468/dash_h264.mpd?t=1674829926",
         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927226/movie.293x165.jpg?t=1674829926"
       },
       {
         "id": 256920685,
         "name": "W3NG PEGI The Witcher 3: Wild Hunt - Reveal",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/292030/521325/8f43129e98908d4e3086109338563334d728c743/1750502259/hls_264_master.m3u8?t=1670976368",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/292030/521325/8f43129e98908d4e3086109338563334d728c743/1750502259/dash_h264.mpd?t=1670976368",
         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920685/movie.293x165.jpg?t=1670976368"
       },
       {
         "id": 2039386,
         "name": "PEGI The Witcher 3: Wild Hunt - Launch Cinematic",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/292030/36174/94b7acf6e7aeba94d9c7d05de1897ecafb97d1c0/1750502205/hls_264_master.m3u8?t=1528288460",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/292030/36174/94b7acf6e7aeba94d9c7d05de1897ecafb97d1c0/1750502205/dash_h264.mpd?t=1528288460",
         "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039386/movie.293x165.jpg?t=1528288460"
       }
     ],
