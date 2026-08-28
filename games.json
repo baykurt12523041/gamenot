@@ -955,5 +955,29 @@
       "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows® 10 64-bit (latest update)<br></li><li><strong>İşlemci:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> NVIDIA® RTX 2060 Super | AMD RX 6600-XT<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Depolama:</strong> 25 GB kullanılabilir alan<br></li><li><strong>Ses Kartı:</strong> Surround sound headphones are recommended<br></li><li><strong>İlave Notlar:</strong> SSD Recommended | If resolution is higher than 1080p, it is recommended to enable DLSS or FSR | Ultrawide not currently supported.</li></ul>"
     },
     "addedAt": "2026-08-28T12:07:41.859Z"
+  },
+  {
+    "id": "mtcx8l2b9tchb",
+    "name": "1",
+    "description": "",
+    "category": "aksiyon",
+    "size": "1",
+    "image": "",
+    "link": "https://bzzhr.to/hut8hw900l9a",
+    "downloadLinks": [
+      {
+        "label": "Link",
+        "url": "https://bzzhr.to/hut8hw900l9a"
+      }
+    ],
+    "version": "",
+    "year": "",
+    "steamAppId": "\t2517220",
+    "genres": [],
+    "categories": [],
+    "developers": "",
+    "movies": [],
+    "pc_requirements": {},
+    "addedAt": "2026-08-28T12:21:59.843Z"
   }
 ]
