@@ -1017,5 +1017,75 @@
       "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10 (64-bit versions only)<br></li><li><strong>İşlemci:</strong> Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent<br></li><li><strong>Bellek:</strong> 8 GB RAM<br></li><li><strong>Ekran Kartı:</strong> NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)<br></li><li><strong>DirectX:</strong> Sürüm 9.0c<br></li><li><strong>Ağ:</strong> Genişbant İnternet bağlantısı<br></li><li><strong>Depolama:</strong> 40 GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.</li></ul>"
     },
     "addedAt": "2026-08-29T08:49:44.994Z"
+  },
+  {
+    "id": "mteg2z1d4cz5h",
+    "name": "Assassin's Creed Black Flag Resynced",
+    "description": "İkonik solo korsan macerası geri dönüyor. Korsanlığın Altın Çağı'nda Edward Kenway olarak Karayipler'de yelken açın. Muhteşem görseller, geliştirilmiş oynanış ve yeni içeriklerle sadık bir şekilde yeniden tasarlanan bu oyunda macera dolu bir yolculuğa çıkın.",
+    "category": "aksiyon",
+    "size": "52GB",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1787915122",
+    "link": "https://thunder-latest-v47i.onrender.com/f/dd28491b5209cd707125/XandyX_Downloader%20_Black%20Flag.exe",
+    "downloadLinks": [
+      {
+        "label": "xandyx",
+        "url": "https://thunder-latest-v47i.onrender.com/f/dd28491b5209cd707125/XandyX_Downloader%20_Black%20Flag.exe"
+      }
+    ],
+    "version": "",
+    "year": "2026",
+    "steamAppId": "3751950",
+    "genres": [
+      "Aksiyon",
+      "Macera"
+    ],
+    "categories": [
+      "Tek Oyunculu",
+      "Steam Başarımları",
+      "Steam Koleksiyon Kartları",
+      "İşitme engelliler için altyazı desteği",
+      "Uygulama İçi Satın Alımlar",
+      "Ayarlanabilir Metin Boyutu",
+      "Kamera Rahatlığı",
+      "Alternatif Renkler",
+      "Özel Ses Kontrolleri",
+      "Ayarlanabilir Zorluk",
+      "Sadece Klavye Seçeneği",
+      "Sadece Fare Seçeneği",
+      "Oyun Menülerinin Seslendirilmesi",
+      "Süre Kısıtlı Girdiler Olmadan Oynanabilme",
+      "DUALSHOCK Kontrolcüsü Desteği",
+      "DUALSHOCK Kontrolcüsü Desteği",
+      "DualSense kontrolcüsü desteği",
+      "DualSense kontrolcüsü desteği",
+      "İstediğin Zaman Kaydet",
+      "Stereo Ses",
+      "Altyazı Seçenekleri",
+      "Surround Ses",
+      "Kısmi kontrolcü desteği",
+      "HDR desteği"
+    ],
+    "developers": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Montreal, Ubisoft Romania",
+    "movies": [
+      {
+        "id": 257367816,
+        "name": "Gameplay Trailer",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/3751950/1436365422/d22de6585f9be7420afae6827d2d5a096d6db50b/1787234258/hls_264_master.m3u8?t=1787236903",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/3751950/1436365422/d22de6585f9be7420afae6827d2d5a096d6db50b/1787234258/dash_h264.mpd?t=1787236903",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257367816/036f2395a46c49cbc8a92541d2510d5d951bd8eb/movie_600x337.jpg?t=1787236903"
+      },
+      {
+        "id": 257367817,
+        "name": "SGF Trailer",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/3751950/1284370405/7a9a9978908324d17543cc2c904c43c6431e47e6/1782752446/hls_264_master.m3u8?t=1783617052",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/3751950/1284370405/7a9a9978908324d17543cc2c904c43c6431e47e6/1782752446/dash_h264.mpd?t=1783617052",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257367817/0ad16d7c00d1f16b1e7932341548221e8ce97142/movie_600x337.jpg?t=1783617052"
+      }
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10 (64 bit only), Windows 11<br></li><li><strong>İşlemci:</strong> Intel Core i7-8700K 3.7 GHz, AMD Ryzen 5 3600 3.6 GHz<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> NVIDIA GeForce GTX 1660 (6GB), AMD Radeon RX5500XT (8GB) or Intel ARC A580 (8GB)<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Depolama:</strong> 65  GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> The game must be installed on a SSD.</li></ul>",
+      "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10 (64 bit only), Windows 11<br></li><li><strong>İşlemci:</strong> Intel Core i5-10600K 4.1 GHz, AMD Ryzen 5 3600 3.6 GHz<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> NVIDIA GeForce RTX 3060 (12GB),AMD Radeon RX6600XT (8GB), or Intel ARC B580 (12GB)<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Depolama:</strong> 65 GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> The game must be installed on a SSD.</li></ul>"
+    },
+    "addedAt": "2026-08-29T13:57:16.897Z"
   }
 ]
