@@ -1094,5 +1094,79 @@
       "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10 22H2 (version 19045) or higher<br></li><li><strong>İşlemci:</strong> Intel i5-12400F OR AMD Ryzen 5 5600X<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> NVIDIA RTX 3060 Ti OR AMD RX 6700 XT OR Intel Arc A580<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Ağ:</strong> Genişbant İnternet bağlantısı<br></li><li><strong>Depolama:</strong> 167 GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> SSD Required</li></ul>"
     },
     "addedAt": "2026-08-29T14:10:15.559Z"
+  },
+  {
+    "id": "mtm0jrzucrtcq",
+    "name": "Resonance: A Plague Tale Legacy",
+    "description": "Ödüllü oyun A Plague Tale'in öncül oyununda özgün bir hikâyeye atıl. Sophia ile oynayarak Minotaur's Island'a git, ölümcül düşmanları kurnaz zekânla alt et, kadim sırları açığa çıkar ve kahredici bir lanetin merkezinde efsanevi bir yaratıkla yüzleş.",
+    "category": "aksiyon",
+    "size": "64 GB",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1788365423",
+    "link": "https://thunder-latest-v47i.onrender.com/f/ff081045340d1d314dee/XandyX_Downloader%20_resonance-a-plague-tale-legacy.exe",
+    "downloadLinks": [
+      {
+        "label": "CLOUD-1",
+        "url": "https://thunder-latest-v47i.onrender.com/f/ff081045340d1d314dee/XandyX_Downloader%20_resonance-a-plague-tale-legacy.exe"
+      }
+    ],
+    "version": "",
+    "year": "2026",
+    "steamAppId": "2713000",
+    "genres": [
+      "Aksiyon",
+      "Macera"
+    ],
+    "categories": [
+      "Tek Oyunculu",
+      "Steam Başarımları",
+      "Tam kontrolcü desteği",
+      "Steam Koleksiyon Kartları",
+      "Ayarlanabilir Metin Boyutu",
+      "Kamera Rahatlığı",
+      "Alternatif Renkler",
+      "#category_contrast_controls",
+      "Özel Ses Kontrolleri",
+      "Ayarlanabilir Zorluk",
+      "Oyun Kumandası Önerilir",
+      "Süre Kısıtlı Girdiler Olmadan Oynanabilme",
+      "DUALSHOCK Kontrolcüsü Desteği",
+      "DualSense kontrolcüsü desteği",
+      "DualSense kontrolcüsü desteği",
+      "Stereo Ses",
+      "Altyazı Seçenekleri",
+      "Surround Ses",
+      "Steam Cloud",
+      "HDR desteği",
+      "Aile Paylaşımı"
+    ],
+    "developers": "Asobo Studio",
+    "movies": [
+      {
+        "id": 257415822,
+        "name": "Resonance: A Plague Tale Legacy - Accolades Trailer",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/2713000/1679664797/87e55b2e61d638209a5b3bb0b6914be755c72f04/1788364052/hls_264_master.m3u8?t=1788365421",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/2713000/1679664797/87e55b2e61d638209a5b3bb0b6914be755c72f04/1788364052/dash_h264.mpd?t=1788365421",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257415822/b6b1c1dc551a6950fa8bf23c389c613341e74d88/movie_600x337.jpg?t=1788365421"
+      },
+      {
+        "id": 257396657,
+        "name": "Resonance: A Plague Tale Legacy - Story Trailer",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/2713000/1583889976/ea6d97bc895a8a40a7a64e149a765f7757b952c7/1786465132/hls_264_master.m3u8?t=1786551115",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/2713000/1583889976/ea6d97bc895a8a40a7a64e149a765f7757b952c7/1786465132/dash_h264.mpd?t=1786551115",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257396657/371fe13e3cc7cdb4ca9380d8bf3b09846e0dd104/movie_600x337.jpg?t=1786551115"
+      },
+      {
+        "id": 257350612,
+        "name": "Resonance: A Plague Tale Legacy - Release Date Reveal Trailer",
+        "hls": "https://video.akamai.steamstatic.com/store_trailers/2713000/2124252230/b2569f68e93fffa8ab9180f8d7cfda514b763b1f/1780590492/hls_264_master.m3u8?t=1780856950",
+        "dash": "https://video.akamai.steamstatic.com/store_trailers/2713000/2124252230/b2569f68e93fffa8ab9180f8d7cfda514b763b1f/1780590492/dash_h264.mpd?t=1780856950",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257350612/ba35def5ca6cf5f85dca3343778ee992c1127fe7/movie_600x337.jpg?t=1780856950"
+      }
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10/11 64-bit<br></li><li><strong>İşlemci:</strong> AMD Ryzen 3 3100 / Intel Core i3-12100<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> 6 GB VRAM, AMD Radeon RX 5500 XT / Nvidia GeForce GTX 1060<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Depolama:</strong> 75 GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> SSD Required. CPU with 4 Cores / 8 Threads required. GPU with DX12.1 / Shader Model 6.6 required. 30 FPS in 1920x1080 with &quot;Low&quot; preset. </li></ul>",
+      "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li>64-bit işlemci ve işletim sistemi gerektirir<br></li><li><strong>İşletim Sistemi:</strong> Windows 10/11 64-bit<br></li><li><strong>İşlemci:</strong> AMD Ryzen 5 5600X / Intel Core i5-12400F<br></li><li><strong>Bellek:</strong> 16 GB RAM<br></li><li><strong>Ekran Kartı:</strong> 8GB VRAM, AMD Radeon RX 6700 XT / Nvidia GeForce RTX 3060 Ti<br></li><li><strong>DirectX:</strong> Sürüm 12<br></li><li><strong>Depolama:</strong> 75 GB kullanılabilir alan<br></li><li><strong>İlave Notlar:</strong> SSD Required. CPU with 4 Cores / 8 Threads required. GPU with DX12.1 / Shader Model 6.6 required. 60 FPS in 1920x1080 with the &quot;Ultra&quot; preset.</li></ul>"
+    },
+    "addedAt": "2026-09-03T21:04:36.474Z"
   }
 ]
